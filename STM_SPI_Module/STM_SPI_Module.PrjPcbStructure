@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=STM_SPI_Module.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=STM_SPI_Module.SchDoc|Designator=Power_Supplies|SchDesignator=Power_Supplies|FileName=Power_Supplies.SchDoc|SymbolType=Normal|RawFileName=Power_Supplies.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=STM_SPI_Module.SchDoc|Designator=U_FTDI|SchDesignator=U_FTDI|FileName=FTDI.sch|SymbolType=Normal|RawFileName=FTDI.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=STM_SPI_Module.SchDoc|Designator=U_SPI_Module|SchDesignator=U_SPI_Module|FileName=SPI_Module.SchDoc|SymbolType=Normal|RawFileName=SPI_Module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
