@@ -3,6 +3,8 @@ There will be an altuim project in here eventually. The goal is to practice our 
 
 Instructions on how to set up git and Altuim:
 
+Eric Berg is NOW ON THE GIT!!! WOOOOHOHOHOHOHOOOOOOOOOOO
+
 1. Initialize a git repository where you want the project to be
    
     touch README.md
